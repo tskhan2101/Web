@@ -1,0 +1,35 @@
+h1 {
+	 text-align:center;
+	 color:red;
+    }
+img {
+	border-radius:50%;
+   border-color:black;
+}
+p {
+	 text-align:center;
+	 color:pink;
+}
+span {
+	color:blue;
+	font-family:Arial;
+	font-style:italic;
+}
+.hero {
+	color:brown;
+	text-align:center;
+	width:auto;
+	height:auto;
+}
+#hero1 {
+	text-align:center;
+	color:purple;
+	font-style:italic;
+	width:auto;
+	height:auto;
+}
+h3{
+	text-align:center;
+	 color:red;
+	
+}
